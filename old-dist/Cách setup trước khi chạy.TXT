@@ -1,0 +1,7 @@
+
+Cách setup database: 
+sử dụng app quản lý database và chạy file query có tên: init_DB_fixed.sql trước khi sử dụng phần mềm,
+setup port về 1433 (localhost)
+tạo tài khoản trong SSMS với tên người "edusys" với mật khẩu "1234", phân quyền cho người dùng này "Sysadmin"
+
+Sau đó chạy file PolyPro-final-setup.exe
